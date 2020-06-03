@@ -1,5 +1,8 @@
 # pymcspearman
 
+**Note**: This repository has been archived and is no longer being maintained.
+The project has migrated (and expanded) to [pymccorrelation](https://github.com/privong/pymccorrelation).
+
 A tool to calculate Spearman's rank correlation coefficient for data, using bootstrapping and/or perturbation to estimate the uncertainties on the correlation coefficient.
 This is a python implementation of [Curran (2014)](https://arxiv.org/abs/1411.3816).
 Curran's original C implementation is [`MCSpearman`](https://github.com/PACurran/MCSpearman/) ([ASCL entry](http://ascl.net/1504.008)).
